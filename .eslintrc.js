@@ -36,6 +36,8 @@ module.exports = {
       "never"
     ],
     "eqeqeq": "error",
+    "no-undef": "off",
+    "no-unused-vars": "warn",
     "no-trailing-spaces": "error",
     "object-curly-spacing": [
       "error", "always"
